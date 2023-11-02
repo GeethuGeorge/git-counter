@@ -1,1 +1,1 @@
-"i have the changed this text from aboutPage branch"
+"i have the changed this function from aboutPage branch"
